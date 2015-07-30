@@ -1,0 +1,5 @@
+la cuna = the crib
+la esponja = the sponge
+el espejo = the mirror
+word4:trand4
+word5:trans5
